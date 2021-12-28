@@ -13,6 +13,7 @@
 .head-img {
   max-width: 100%;
   height: auto;
+  background-image: url('/img/10b_Background_fallback_desktop_01_01.jpg');
 }
 
 html {
