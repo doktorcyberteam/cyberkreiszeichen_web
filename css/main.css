@@ -16,10 +16,11 @@
 }
 
 html {
-  color: #ffd400;
+  color: #ffffff;
   font-size: 1em;
+  font-family: sans-serif;
   line-height: 1.4;
-  background-color: #424242;
+  background-color: #29005c;
 }
 
 h1 {
